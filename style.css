@@ -1,7 +1,6 @@
-. style {
-    background-color: aqua;
+h1 {
+    color: red;
+    font-size: large;
+    
 }
 
-.style title {
-    color: red;
-}
